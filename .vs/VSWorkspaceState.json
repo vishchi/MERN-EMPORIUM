@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\views",
+    "\\client\\src\\components\\views\\CartPage",
+    "\\client\\src\\components\\views\\LoginPage",
+    "\\client\\src\\components\\views\\NavBar",
+    "\\client\\src\\components\\views\\NavBar\\Sections",
+    "\\client\\src\\_reducers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
