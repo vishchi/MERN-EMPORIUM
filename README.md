@@ -1,7 +1,7 @@
 # MERN-Emporium
 This is a full-stack E-COMMERCE store, developed by using MongoDB, Express.JS, React.JS, Node.JS.
 It uses React.JS on front-end to build the client User Interface.
-Node.JS and Express.JS(framework) is used to build server back-end.
+Node.JS and Express.JS(framework) are used to build server back-end.
 MongoDB Atlas is used as database.
 
 ## To use this application:
